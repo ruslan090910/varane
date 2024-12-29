@@ -1,0 +1,40 @@
+header{
+    display: flex;
+}
+header ul{
+    display: flex;
+    margin: 0 50px;
+}
+header li{
+    margin: 0 100px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: 0;
+    font-size: 50px;
+}
+.Logo{
+    font-size: 100px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 45px;
+}
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 21px;
+}
+img{
+    width: 3000px;
+}
+img2{
+    width: 3000px;
+}
